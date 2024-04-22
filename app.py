@@ -28,6 +28,6 @@ if scatter_button:
     # Mensaje informativo
     st.write('Creación de un gráfico de dispersión para el conjunto de datos de anuncios de venta de coches')
     # Crear el gráfico de dispersión
-    fig = px.scatter(car_data, x="model_year", y="price")
+    fig = px.scatter(car_data, x="odometer", y="price")
     # Mostrar el gráfico de dispersión
     st.plotly_chart(fig, use_container_width=True)
