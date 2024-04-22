@@ -5,3 +5,4 @@ Este es un proyecto de aplicación web desarrollado con Streamlit. La aplicació
 ## Funcionalidades
 
 - Construcción de histogramas basados en los datos de kilometraje (odometer) de los vehículos.
+ https://proyecto-1-efwo.onrender.com/
